@@ -2,5 +2,5 @@
 this is my frist ripo
 <br>
 <hr>
-author - arya kumar sahu
+Author - Arya Kumar Sahu
 
